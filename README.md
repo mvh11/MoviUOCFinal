@@ -33,8 +33,7 @@
 Base URL:
 http://localhost:8080
 
-yaml
-Copiar código
+
 
 Endpoints:
 - GET /usuarios
@@ -51,8 +50,6 @@ Endpoints:
 Base URL:
 http://localhost:8081
 
-yaml
-Copiar código
 
 Endpoints:
 - GET /conductores
@@ -67,9 +64,6 @@ Endpoints:
 
 Base URL:
 http://localhost:8082
-
-yaml
-Copiar código
 
 Endpoints:
 - GET /viajes
@@ -111,9 +105,6 @@ Build → Generate Signed Bundle / APK
 Ubicación del APK:
 app/build/outputs/apk/release/app-release.apk
 
-yaml
-Copiar código
-
 
 
 ## Keystore (.jks)
@@ -122,11 +113,8 @@ Copiar código
 - Ubicación del archivo (ejemplo):
 app/keystore/moviuoc-release.jks
 
-yaml
-Copiar código
 
 El archivo .jks no se incluye en el repositorio por motivos de seguridad.
-
 
 
 ## Código fuente
